@@ -1,6 +1,9 @@
 README - Sistem Manajemen Pegawai (CRUD)
 
+Create By: Aldrich Deril Christian Zebua
+
 Sistem ini adalah aplikasi berbasis web menggunakan Laravel 11/12 untuk mengelola data pegawai, jabatan, dan unit kerja. Aplikasi ini dibangun untuk memenuhi kriteria uji kompetensi teknis.
+anda dapat clone filenya melalui https://github.com/git-enel/simpeg-kominfo.git
 Fitur Utama:
 
     CRUD Pegawai: Kelola data lengkap dengan relasi Jabatan dan Unit Kerja.
